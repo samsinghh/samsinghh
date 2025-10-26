@@ -1,1 +1,1 @@
-hi im sam
+![Hello](assets/typewriter.gif)
