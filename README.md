@@ -1,1 +1,1 @@
-![Hello](assets/typewriter.gif)
+
